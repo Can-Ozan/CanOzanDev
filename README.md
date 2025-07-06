@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHLm5e--63qRA/profile-displaybackgroundimage-shrink_350_1400/B4DZfa48p_GkAY-/0/1751724052266?e=1756944000&v=beta&t=TVg5ZHNOxZz5eMUkrk13jVm29h-psn4c4zMezEtkxTY)
 
-[⚠️ Suspicious Content] <h1 align="center">Hi 👋, I'm Yusuf Can Ozan</h1>
+ <h1 align="center">Hi 👋, I'm Yusuf Can Ozan</h1>
 <h3 align="center">A İnterested Web Based Application Developer From Turkey</h3>
 
 - 🔭 I’m currently working on **JavaScript**
